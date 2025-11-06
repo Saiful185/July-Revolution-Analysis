@@ -22,7 +22,7 @@ Our analysis follows a multi-layered framework, designed to move from broad corr
 
 ## Key Results
 
-Our layered analysis yielded multiple core, complementary findings:
+Our layered analysis yielded multiple core, complementary findings including:
 *   **A Contingent Backfire:** State violence did cause more protest, but only after a clear **structural break** around July 16th. Before this "tipping point," the effect was statistically insignificant.
 *   **The Effect of Visuals:** The single most powerful predictor of a protest wave was the **Excessive force against protesters**. This points to the impact of shocking visuals to circulate and catalyze a mass response.
 *   **Predictive Power:** The revolution, while seemingly chaotic, was quantitatively predictable. Our final XGBoost model could explain **~65% of the variance** in the next day's protest events in a rigorous out-of-sample test.
